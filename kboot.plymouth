@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=KBoot
+Description=Custom Bootscreen by Kevin Kandlbinder.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kboot
+ScriptFile=/usr/share/plymouth/themes/kboot/kboot.script
